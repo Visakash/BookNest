@@ -1,1 +1,1 @@
-# BookNest
+The Book Store Management System is a web-based application that allows users to browse, search, and purchase books online. It provides a user-friendly interface for customers to explore the bookstore's catalog, add items to their cart, and complete transactions securely. Additionally, the system offers administrative capabilities for managing inventory, processing orders, and monitoring sales.
